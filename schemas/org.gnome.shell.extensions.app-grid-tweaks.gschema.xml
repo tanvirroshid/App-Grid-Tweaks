@@ -33,7 +33,7 @@ Version 3.03
     </key>
 
     <key name="appgrid-max-columns" type="i">
-      <default>6</default>
+      <default>4</default>
       <summary>App Grid Columns</summary>
       <description>App Grid Columns</description>
     </key>
